@@ -13,8 +13,8 @@ Ph.D. student in Integrated Technology @ Yonsei Univ. Advised by [Jeonggil Ko](h
 
 Mainly working on Robotics and Mobile Computing.
 
-Systemic approach for efficient & realtime AI inference on robotics & edges devices
-Multi modality understanding
+- Systemic approach for efficient & realtime AI inference on robotics & edges devices
+- Multi modality understanding
 
 ## 🐧 Curriculum Vitae
 [CV - Jun 2026](https://github.com/user-attachments/files/29422315/CV.-.Jun.2026.pdf)
