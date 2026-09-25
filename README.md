@@ -1,19 +1,20 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:8deebc,100:96eff4&height=300&section=header&text=HeLlo_WoRlD!&fontColor=#000000&fontSize=90)
 
 # 😎 About Me
-I am passionate about enabling "Proactive Computing".
+Passionated in enabling "proactive computing".
+
+A system that acts in advance of human's request and provides physical service.
 
 Ph.D. student in Integrated Technology @ Yonsei Univ. Advised by [Jeonggil Ko](https://sites.google.com/site/jeonggilko)
 
 ## ✨ research interest
 
-My research interest is mainly efficient inference in robotics and mobile computing.
-
 <img alt="demo_shorten_small" src="https://github.com/user-attachments/assets/4ce4a451-a6eb-4d53-a71e-c639a5209d7a" />
 
-To make the dream possible I'm working on these kinds of topics.
-- Systemic approach for efficient & realtime AI inference on robotics & edges devices
-- Multi modality understanding
+Mainly working on Robotics and Mobile Computing.
+
+Systemic approach for efficient & realtime AI inference on robotics & edges devices
+Multi modality understanding
 
 ## 🐧 Curriculum Vitae
 [CV - Jun 2026](https://github.com/user-attachments/files/29422315/CV.-.Jun.2026.pdf)
