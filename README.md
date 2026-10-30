@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:8deebc,100:96eff4&height=300&section=header&text=HeLlo_WoRlD!&fontColor=#000000&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:8deebc,100:96eff4&height=300&section=header&text=Towards%20Proactive%20Computing&fontColor=%23000000&fontSize=55)
 
 # 😎 About Me
 Passionated in enabling "proactive computing".
@@ -60,6 +60,11 @@ Recent posts
     - Project to make service that enables data transfer without OS barrier [Organization](https://www.instagram.com/vast.dev/)
 
 # 📄 Publications
+## Unber-review
+- [Pre3, 2026] Joonhee Lee, Jiale Zhang, Sungmin Lee, Ruiqing Wang, Jeffrey Daniel Shulkin, Yiwen Dong, Pei Zhang, JeongGil Ko. "Anonymized submission", Oct. 2026.
+- [Pre2, 2026] Joonhee Lee*, Sungmin Lee*, Hyunseung Shin, Hyunmi Kim, Pei Zhang, JeongGil Ko. "Anonymized submission", Sep. 2026.
+- [Pre1, 2026] Sungmin Lee*, Kichang Lee*, Joonhee Lee, JaeYeon Park, Songkuk Kim, JeongGil Ko. "Anonymized submission", Sep. 2026. 
+
 ## Published
 - [Journal Paper] IMWUT/Ubicomp 26 [JARVIS for HVAC: LLM-based Question-Answer Framework for Sensor-driven HVAC System Interaction](https://dl.acm.org/doi/epdf/10.1145/3810210)
   - Sungmin Lee, Joonhee Lee, Minju Kang, Seungyong Lee, Dongju Kim, Jingi Hong, Jun Shin, Pei Zhang, JeongGil Ko
@@ -71,9 +76,9 @@ Recent posts
   - Eunhwa Lee*, Joonhee Lee, Siyun Lee, Junhyub Lee, Si-Hyuck Kang, and Hyosu Kim*
  
 ## Preprints
-- [Paper] Arxiv 26 [On-Device Robotic Planning: Eliminating Inference Redundancy for Efficient Decision-Making](https://arxiv.org/abs/2605.31460)
-  - Joonhee Lee, Hyunseung Shin, Hyunmi Kim, Pei Zhang, Jeonggil Ko
-- [Paper] Arxiv 25 [IROS: A Dual-Process Architecture for Real-Time VLM-Based Indoor Navigation](https://arxiv.org/abs/2601.21506)
+- [Proactive Computing: Realistic frontier about systematic automation](https://arxiv.org/abs/2608.12649)
+  - Joonhee Lee
+- [IROS: A Dual-Process Architecture for Real-Time VLM-Based Indoor Navigation](https://arxiv.org/abs/2601.21506)
   - Joonhee Lee, Hyunseung Shin, JeongGil Ko
   
 # 🎙️ Activities
