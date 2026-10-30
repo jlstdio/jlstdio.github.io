@@ -62,8 +62,10 @@ Recent posts
 # 📄 Publications
 ## Unber-review
 - [Pre3, 2026] Joonhee Lee, Jiale Zhang, Sungmin Lee, Ruiqing Wang, Jeffrey Daniel Shulkin, Yiwen Dong, Pei Zhang, JeongGil Ko. "Anonymized submission", Oct. 2026.
-- [Pre2, 2026] Joonhee Lee*, Sungmin Lee*, Hyunseung Shin, Hyunmi Kim, Pei Zhang, JeongGil Ko. "Anonymized submission", Sep. 2026.
-- [Pre1, 2026] Sungmin Lee*, Kichang Lee*, Joonhee Lee, JaeYeon Park, Songkuk Kim, JeongGil Ko. "Anonymized submission", Sep. 2026. 
+- [Pre2, 2026] Joonhee Lee<sup>*</sup>, Sungmin Lee<sup>*</sup>, Hyunseung Shin, Hyunmi Kim, Pei Zhang, JeongGil Ko. "Anonymized submission", Sep. 2026.
+- [Pre1, 2026] Sungmin Lee<sup>*</sup>, Kichang Lee<sup>*</sup>, Joonhee Lee, JaeYeon Park, Songkuk Kim, JeongGil Ko. "Anonymized submission", Sep. 2026.
+
+(*: Co-first authors)
 
 ## Published
 - [Journal Paper] IMWUT/Ubicomp 26 [JARVIS for HVAC: LLM-based Question-Answer Framework for Sensor-driven HVAC System Interaction](https://dl.acm.org/doi/epdf/10.1145/3810210)
@@ -73,7 +75,7 @@ Recent posts
 - [Short Conference Paper] ZABAPAD workshop @ WWW 26 [Statistical Analysis of 12V Power Load Uncertainty Using Conditional Probability for SDV](https://dl.acm.org/doi/10.1145/3774905.3794703)
   - Gyeongmin Han, Sungmin Lee, JoonHee Lee, Kichang Lee, JeongGil Ko
 - [Conference Poster] UIST 25 [Enabling Ubiquitous High-Fidelity Cardiac Auscultation via Integration of Smartphone and 3D Printing Technologies](https://programs.sigchi.org/uist/2025/program/content/209334)
-  - Eunhwa Lee*, Joonhee Lee, Siyun Lee, Junhyub Lee, Si-Hyuck Kang, and Hyosu Kim*
+  - Eunhwa Lee, Joonhee Lee, Siyun Lee, Junhyub Lee, Si-Hyuck Kang, and Hyosu Kim
  
 ## Preprints
 - [Proactive Computing: Realistic frontier about systematic automation](https://arxiv.org/abs/2608.12649)
