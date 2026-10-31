@@ -60,7 +60,7 @@ Recent posts
     - Project to make service that enables data transfer without OS barrier [Organization](https://www.instagram.com/vast.dev/)
 
 # 📄 Publications
-## Unber-review
+## Under Review
 - [Pre3, 2026] Joonhee Lee, Jiale Zhang, Sungmin Lee, Ruiqing Wang, Jeffrey Daniel Shulkin, Yiwen Dong, Pei Zhang, JeongGil Ko. "Anonymized submission", Oct. 2026.
 - [Pre2, 2026] Joonhee Lee<sup>*</sup>, Sungmin Lee<sup>*</sup>, Hyunseung Shin, Hyunmi Kim, Pei Zhang, JeongGil Ko. "Anonymized submission", Sep. 2026.
 - [Pre1, 2026] Sungmin Lee<sup>*</sup>, Kichang Lee<sup>*</sup>, Joonhee Lee, JaeYeon Park, Songkuk Kim, JeongGil Ko. "Anonymized submission", Sep. 2026.
