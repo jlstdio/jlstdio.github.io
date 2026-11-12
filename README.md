@@ -96,6 +96,7 @@ Recent posts
 
 # 🧑‍💼 Volunteering
 - Peer Reviewer, TIOT @ ACM (Association for Computing Machinery) Jun. 2026 ~ Present
+- Reviewer, ICRA 2026 SCR Workshop @ IEEE RAS (Robotics and Automation Society) Apr. 2026
 
 # 🏆 Honors & Awards (5 years window)
 - 2025 3nd place [6th Creative Bridge Festival]()
