@@ -93,7 +93,10 @@ Recent posts
     - Managing Software development & Interactive wall devlopment
   - 2023 Software developer
     - VR interaction & SW infrastructure(Check-in system / Website) development
-  
+
+# 🧑‍💼 Volunteering
+- Peer Reviewer, TIOT @ ACM (Association for Computing Machinery) Jun. 2026 ~ Present
+
 # 🏆 Honors & Awards (5 years window)
 - 2025 3nd place [6th Creative Bridge Festival]()
 - 2024 2nd place [5th Creative Bridge Festival](https://swb.skku.edu/scicam/notice.do?mode=view&articleNo=54470&article.offset=0&articleLimit=10)
