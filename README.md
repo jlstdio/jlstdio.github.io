@@ -105,6 +105,19 @@ Recent posts
 - 2024 1st place [KU-Cambridge Campus Sharing Economy MAKEathon](https://slp.korea.ac.kr/slp/makeathon/Who.do)
 - 2021 2nd place [Sejong CCEI Make-A-Thon](https://ccei.creativekorea.or.kr/sejong/custom/notice_view.do?no=20976&rnum=1107&kind=undefined&sPtime=undefined)
 
+# Presentation / Talk
+- Speaker @ GDSC Hongik 8th Dev Seminar : "All about Side Project" [watch](https://www.youtube.com/watch?v=KBEyha-x79Q)
+- Speaker @ GDSC Ehwa : "Figma for SW development and cooperation"
+- Project display @ [SOSCON(Samsung Open Source Conference)](https://soscon2017.ssdc.kr) 2017
+  - [exhibition list](https://soscon2017.ssdc.kr/exhibition.html) | [article](http://bit.ly/336FTFc)
+  - Presenting WAG project
+- Speaker @ [서울혁신센터](https://m.onoffmix.com/event/108155) 제5회 기술공유회 2017
+  - Introduction to opensource technology in UAV system & modeling light weight frame on various materials
+
+# 📎 Teaching / Mentoring
+- Mentor @ [서울런 멘토단](https://slearn.seoul.go.kr/front/mentoringIntro.do) (Aug. 2022 ~ Feb. 2023)
+- TA @ Software Project (Undergraduate), School of Integrated Technology ,Yonsei Univ (Fall. 2025)
+  
 # 🧩 Side Projects
 #### 0️⃣ Currently
 - TBA
@@ -122,21 +135,3 @@ Recent posts
 - [mobile 한글시계-Maintaining](https://hangulclock.today/#/) projet(안드로이드 개발) : Maintaining & small updates (2018~)
 - [New Sense-Finished](https://github.com/jlstdio/NewSense) : Obstacle warning item for safe bike riding (2018)
 - [WAG-Stopped](https://github.com/jlstdio/WAG-Project) : Stands for Water, Air, Ground; project to make drone that can go on air, underwater, on ground for emergency situation (2014~2019)
-
-# 📎 ETCs
-#### I was involved in...
-- Speaker @ GDSC Hongik 8th Dev Seminar : "All about Side Project" [watch](https://www.youtube.com/watch?v=KBEyha-x79Q)
-- Speaker @ GDSC Ehwa : "Figma for SW development and cooperation"
-- Mentor @ [서울런 멘토단](https://slearn.seoul.go.kr/front/mentoringIntro.do) (Aug. 2022 ~ Feb. 2023) 
-- Project display @ [SOSCON(Samsung Open Source Conference)](https://soscon2017.ssdc.kr) 2017
-  - [exhibition list](https://soscon2017.ssdc.kr/exhibition.html) | [article](http://bit.ly/336FTFc)
-  - Presenting WAG project
-- Speaker @ [서울혁신센터](https://m.onoffmix.com/event/108155) 제5회 기술공유회 2017
-  - Introduction to opensource technology in UAV system & modeling light weight frame on various materials
-
-#### Stuffs I'm learning/doing in my free of free time
-- [Introduction to Quantum Theory to IT](https://www.coursera.org/learn/introduction-to-quantum-information)
-- [Quantum Computing and Fundamental of Information]()
-- LLM : CS224n..
-- Implementing Neural Network on new HW platform such as Quantum Computer or Neuromorphic Computer
-- Compling AI
