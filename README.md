@@ -88,7 +88,7 @@ Recent posts
 - <img src="https://github.com/user-attachments/assets/510c2d2f-e1e4-4cf0-92e2-fb456213e09e" height="25" style="vertical-align: middle; margin-right: 6px;" /> Reviewer, ICRA 2026 SCR Workshop @ IEEE RAS (Robotics and Automation Society) Apr. 2026
   
 # 🎙️ Activities
-- Member @ [NAEK YEHS(한국공학한림원 차세대공학리더)](http://yehs.or.kr/) Sep. 2022 ~ Present
+- Member @ [Young Engineers Honor Society, National Academy of Engineering of Korea](https://www.naekyehs.org/) Sep. 2022 ~ Present
   - 2023 Associate Director in Dept of Human Resource
 - Review Committee @ NAEK's Engineering Technology Book 2024 ~ 25
 - [P.EYE](https://readymag.com/u1427907511/peye/) Jul. 2023 ~ Aug. 2026
