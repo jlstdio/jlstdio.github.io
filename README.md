@@ -11,6 +11,13 @@ Ph.D. student in Integrated Technology @ Yonsei Univ. Advised by [Jeonggil Ko](h
 
 <img alt="demo_shorten_small" src="https://github.com/user-attachments/assets/4ce4a451-a6eb-4d53-a71e-c639a5209d7a" />
 
+<div style="display: flex; overflow-x: auto; gap: 12px; padding-bottom: 10px;">
+  <img style="height: 300px; width: auto; flex-shrink: 0; object-fit: cover;" alt="20250910_123836" src="https://github.com/user-attachments/assets/4b1400a0-29f9-43d8-b679-f4c2b6687012" />
+  <img style="height: 300px; width: auto; flex-shrink: 0; object-fit: cover;" alt="20250927_170101" src="https://github.com/user-attachments/assets/1937a5ef-fc8c-43d0-bce9-0e110f16fd2d" />
+  <img style="height: 300px; width: auto; flex-shrink: 0; object-fit: cover;" alt="20260528_180449" src="https://github.com/user-attachments/assets/2d36bf46-a55b-4d27-a958-dc15d154e950" />
+  <img style="height: 300px; width: auto; flex-shrink: 0;
+  
+
 Mainly working on Robotics and Mobile Computing.
 
 - Systemic approach for efficient & realtime AI inference on robotics & edges devices
