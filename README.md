@@ -7,20 +7,19 @@ A system that acts in advance of human's request and provides physical service.
 
 Ph.D. student in Integrated Technology @ Yonsei Univ. Advised by [Jeonggil Ko](https://sites.google.com/site/jeonggilko)
 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joonlee.jlstdio@gmail.com)](mailto:joonlee.jlstdio@gmail.com) : joonlee.jlstdio@gmail.com
+
 ## ✨ research interest
 
-<img alt="demo_shorten_small" src="https://github.com/user-attachments/assets/4ce4a451-a6eb-4d53-a71e-c639a5209d7a" />
-
 <div style="display: flex; overflow-x: auto; gap: 12px; padding-bottom: 10px;">
-  <img style="height: 300px; width: auto; flex-shrink: 0; object-fit: cover;" alt="20250910_123836" src="https://github.com/user-attachments/assets/4b1400a0-29f9-43d8-b679-f4c2b6687012" />
-  <img style="height: 300px; width: auto; flex-shrink: 0; object-fit: cover;" alt="20250927_170101" src="https://github.com/user-attachments/assets/1937a5ef-fc8c-43d0-bce9-0e110f16fd2d" />
+  <img style="height: 300px; width: auto; flex-shrink: 0; object-fit: cover;" alt="demo_shorten_small" src="https://github.com/user-attachments/assets/4ce4a451-a6eb-4d53-a71e-c639a5209d7a" />
   <img style="height: 300px; width: auto; flex-shrink: 0; object-fit: cover;" alt="20260528_180449" src="https://github.com/user-attachments/assets/2d36bf46-a55b-4d27-a958-dc15d154e950" />
+  <img style="height: 300px; width: auto; flex-shrink: 0; object-fit: cover;" alt="20250910_123836" src="https://github.com/user-attachments/assets/4b1400a0-29f9-43d8-b679-f4c2b6687012" />
   <img style="height: 300px; width: auto; flex-shrink: 0; object-fit: cover;" alt="image" src="https://github.com/user-attachments/assets/76a7656e-67eb-4ab1-bb51-092501c19cd9" />
-  <img style="height: 300px; width: auto; flex-shrink: 0; object-fit: cover;" alt="image" src="https://github.com/user-attachments/assets/fb815039-4856-4a1e-8822-698db1faca2e" />
-  <img style="height: 300px; width: auto; flex-shrink: 0; object-fit: cover;" alt="image" src="https://github.com/user-attachments/assets/e4afabcd-80d5-4a8a-8d2b-c70eccd5380d" />
+<img style="height: 300px; width: auto; flex-shrink: 0; object-fit: cover;" src="https://github.com/user-attachments/assets/bf089d33-d2cf-46d0-8ceb-d6119b4f0edb" />
+  <img style="height: 300px; width: auto; flex-shrink: 0; object-fit: cover;" alt="20250927_164438" src="https://github.com/user-attachments/assets/b3508741-160d-44db-816c-0d0c8640c817" />
 </div>
-  
-Mainly working on Robotics and Mobile Computing.
+#Robotics #Mobile Computing.
 
 - Systemic approach for efficient & realtime AI inference on robotics & edges devices
 - Multimodal perception for richer situational awareness and robust decision-making
@@ -28,8 +27,10 @@ Mainly working on Robotics and Mobile Computing.
 ## 🐧 Curriculum Vitae
 [CV - Jun 2026](https://github.com/user-attachments/files/29422315/CV.-.Jun.2026.pdf)
 
-## 📮 You can contact me on...
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joonlee.jlstdio@gmail.com)](mailto:joonlee.jlstdio@gmail.com) : joonlee.jlstdio@gmail.com
+### Current Affliation
+<img style="height: 100px; width: auto; flex-shrink: 0; object-fit: cover;" alt="기본형_심볼-02" src="https://github.com/user-attachments/assets/0d6be330-872f-40df-97ad-121378437673" />
+<img style="height: 100px; width: auto; flex-shrink: 0; object-fit: cover;" alt="Michigan-Engineering Vertical-REV-BLUE-RGB" src="https://github.com/user-attachments/assets/8538fd8c-e6d9-4864-8db0-3859b4fac5d9" />
+
 
 ## ✍🏻 Writings
 [Opinions on Various Things and Concepts (KR written, Translatable)](https://brunch.co.kr/@jlstdio)
