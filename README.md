@@ -1,9 +1,7 @@
 <div style="display: flex; align-items: flex-start; justify-content: space-between; gap: 24px; flex-wrap: wrap;">
   <div style="flex: 1; min-width: 260px;" markdown="1">
 
-Passionated in enabling "proactive computing".
-
-A system that acts in advance of human's request and provides physical service.
+Focusing on deeply understanding sensor data from the physical world and leveraging that insight to make systems run as efficiently as possible.
 
 Ph.D. student in Integrated Technology @ Yonsei Univ. Advised by [Jeonggil Ko](https://sites.google.com/site/jeonggilko)
 
